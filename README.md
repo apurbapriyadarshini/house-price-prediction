@@ -28,3 +28,5 @@ Predict the price of a house based on features such as area, number of bedrooms,
 
 ## Results
 The Linear Regression model achieves an R2 score of around 0.95 on the test set, meaning it explains most of the variation in house prices. Area, air conditioning, and preferred location turned out to be the strongest price drivers.
+
+AI/ML Intern, CodTech IT Solutions InternID: CITS5467
